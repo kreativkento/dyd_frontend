@@ -22,8 +22,7 @@ function App() {
         <div className="cta">
           <a
             className="download-btn"
-            href="/dyd-prototype.apk"
-            download="dyd-prototype.apk"
+            href="https://github.com/kreativkento/dyd_frontend/releases/download/v1.0.0/dyd-prototype.apk"
           >
             <svg
               className="android-icon"
